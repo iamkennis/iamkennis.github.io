@@ -88,7 +88,7 @@ export const HeroSection = () => {
               </AnimateChild>
               <AnimateChild>
                 <Text fontWeight="bold" colorScheme="gray">
-                  Am available for a Jnr Software Developer role (Front-end/Back-end)!
+                  Am a Software Developer (Front-end/Back-end)
                 </Text>
               </AnimateChild>
               <AnimateChild>

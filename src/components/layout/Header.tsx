@@ -23,12 +23,6 @@ const Header = () => {
       <Container maxWidth="container.lg" pl={4} pr={4} pt={2} pb={2}>
         <Flex alignItems="center" h="3.5rem">
           <Center as={Link} href="#top">
-            {/* <Image
-              src="/static/logo.svg"
-              alt="Apple memoji of Justin Zhang"
-              width={50}
-              height={50}
-            /> */}
             <Text>Amodu Kehinde</Text>
           </Center>
           <Spacer />
