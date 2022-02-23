@@ -1,0 +1,26 @@
+[
+  {
+    "style": "HEADING",
+    "text": "MY SKILLS"
+  },
+  {
+    "style": "BADGE",
+    "badgeText": "LANGUAGES",
+    "text": "Html, Css, Javascript (Typescript)"
+  },
+  {
+    "style": "BADGE",
+    "badgeText": "FRAMEWORKS AND TECHNICAL",
+    "text": "Node.js, React.js, Express"
+  },
+  {
+    "style": "BADGE",
+    "badgeText": "TOOLS",
+    "text": "Git, Netlify, Heroku ,Github, MongoDb"
+  },
+  {
+    "style": "BADGE",
+    "badgeText": "SOFTWARES",
+    "text": "Figma, Adobe XD"
+  }
+]

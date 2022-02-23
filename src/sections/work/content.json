@@ -1,0 +1,46 @@
+[
+  {
+    "imageKey": "",
+    "title": "Dalcoin Website",
+    "dates": "Html Css Javascript",
+    "body1": "A crypto-currecncy website landing page for a client",
+    "body2": "Built with Html|Css|Javascript",
+    "logoAlt": "",
+    "ctaText": "Website Link",
+    "ctaLink": "https://dalcoin.netlify.app",
+    "tags": ["current", "work"]
+  },
+  {
+    "imageKey": "",
+    "title": "Beardmen E-commerce",
+    "dates": "React Redux Node MongoDb",
+    "body1": "A full stack e-commerce website",
+    "body2": " Built with React|Redux|Node|MongoDb",
+    "logoAlt": "Shopify logo, a green bag with a white S on the front",
+    "ctaText": "Website Link",
+    "ctaLink": "https://beardmen.netlify.app",
+    "tags": ["current", "work"]
+  },
+  {
+    "imageKey": "/logos/hw.png",
+    "title": "Bookmark Website",
+    "dates": "Html  Css  Javascript",
+    "body1": "A frontend mentor challenge, i did to test my frontend skills",
+    "body2": "A frontend mentor challenge built with Html|Css|Javascript",
+    "logoAlt": "Hack Western logo, a purple isometric horse",
+    "ctaText": "Website Link",
+    "ctaLink": "https://bookmark-app-now.netilfy.app",
+    "tags": ["current", "ec"]
+  },
+  {
+    "imageKey": "/logos/rbc.png",
+    "title": "Picker Dice Game",
+    "dates": "Html  Css  Javascript",
+    "body1": "A mini game ",
+    "body2": "Built with Html|Css|Javascript",
+    "logoAlt": "Royal Bank of Canada logo, a blue shield with a golden lion holding a globe",
+    "ctaText": "Website Link",
+    "ctaLink": "https//picker-dice-game.netlify.app",
+    "tags": ["current","work"]
+  }
+]
